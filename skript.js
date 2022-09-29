@@ -1,0 +1,147 @@
+import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+
+var currentPopup = undefined;
+var isCoWebSiteOpened =  false;
+var urlFeedback = "https://forms.office.com/Pages/ResponsePage.aspx?id=nC2noeZJbU-a9lqvoRg7_f26WHDvlOFNi_8Y43fECOdUMDVDTUpUUDRONkxHMzdLQ09WRlQxUUZSMS4u";
+var urlInfo = "https://db-planet.deutschebahn.com/pages/telefonie/apps/content/workadventure";
+var urlMusik = "https://www.youtube-nocookie.com/embed/36YnV9STBqc?autoplay=1";
+var urlCafe = "https://www.chefkoch.de/rezepte/1092131215242366/Eiskaffee-Latte-macchiato.html";
+var Mail = "mailto:DB.Systel.CommunicationServices.EVS@deutschebahn.com";
+
+function closePopUp(){
+    if (currentPopup !== undefined) {
+        currentPopup.close();
+        currentPopup = undefined;
+    }
+}
+
+var zoneFeedback = "feedback";
+var zoneInfo = "info";
+var zoneInfoDoor = "infoDoor";
+var zoneMusik = "musik";
+var zoneCafe = "cafe";
+var zoneTestURL = "testURL";
+
+
+WA.room.onEnterZone(zoneTestURL, () => {
+   currentPopup =  WA.ui.openPopup("popUpTestURL","Test URL öffnen?.",[
+        {
+            label: "OK",
+            callback: (popup => {
+                WA.nav.openCoWebSite(WA.state.testURL, false, "autoplay;camera;microphone;fullscreen;encrypted-media");
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneTestURL, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
+
+WA.room.onEnterZone(zoneFeedback, () => {
+   currentPopup =  WA.ui.openPopup("popUpFeedback","Hier kannst du Feedback abgeben.",[
+        {
+            label: "OK",
+            callback: (popup => {
+                WA.nav.openCoWebSite(WA.state.feedbackURL, false, "autoplay; fullscreen; encrypted-media");
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneFeedback, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
+
+WA.room.onEnterZone(zoneInfo, () => {
+   currentPopup =  WA.ui.openPopup("popUpInfo","Willkommen im öffentlichen Besprächungsraum Team EVS, möchtest du mehr Informationen zu WorkAdventure erfahren?",[
+        {
+            label: "Her damit!",
+			callback: (popup => {
+                WA.nav.openTab(urlInfo);
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneInfo, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
+
+WA.room.onEnterZone(zoneInfoDoor, () => {
+   currentPopup =  WA.ui.openPopup("popUpInfoDoor","Falls die Tür verschlossen ist, am besten einen Termin mit uns vereinbaren\n📧 Team EVS 📧",[
+        {
+            label: "E-Mail",
+			className:"error",
+			callback: (popup => {
+                WA.nav.openTab(Mail);
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneInfoDoor, () =>{
+    closePopUp();
+})
+
+
+WA.room.onEnterZone(zoneMusik, () => {
+   currentPopup =  WA.ui.openPopup("popUpMusik","Ein wenig Musik gefällig?",[
+        {
+            label: "Her damit!",
+			callback: (popup => {
+                WA.nav.openCoWebSite(urlMusik, false, "autoplay; fullscreen; encrypted-media");
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneMusik, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
+
+WA.room.onEnterZone(zoneCafe, () => {
+   currentPopup =  WA.ui.openPopup("popUpCafe","Leider,\ndo it yourself",[
+        {
+            label: "Empfehlung",
+            callback: (popup => {
+                WA.nav.openTab(urlCafe);
+                isCoWebSiteOpened = true;
+                closePopUp();
+            })
+        }]);
+})
+
+WA.room.onLeaveZone(zoneCafe, () =>{
+    closePopUp();
+
+    if (isCoWebSiteOpened) {
+        WA.nav.closeCoWebSite();
+        isCoWebSiteOpened = false;
+    }
+})
