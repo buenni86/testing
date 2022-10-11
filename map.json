@@ -337,7 +337,7 @@
                 {
                  "name":"tag",
                  "type":"string",
-                 "value":""
+                 "value":"saver-b"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -807,7 +807,7 @@
                 {
                  "name":"tag",
                  "type":"string",
-                 "value":""
+                 "value":"b2"
                 }],
          "type":"tilelayer",
          "visible":true,
