@@ -5557,7 +5557,7 @@
                 {
                  "name":"tag",
                  "type":"string",
-                 "value":""
+                 "value":"mox"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -9511,54 +9511,6 @@
                 }, 
                 {
                  "height":0,
-                 "id":104,
-                 "name":"doorOffice",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"doorClosedOffice"
-                        }, 
-                        {
-                         "name":"closeSound",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"doorOpenedOffice"
-                        }, 
-                        {
-                         "name":"openSound",
-                         "type":"string",
-                         "value":"sigh_0.mp3"
-                        }, 
-                        {
-                         "name":"soundRadius",
-                         "type":"int",
-                         "value":150
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":849,
-                 "y":697.834
-                }, 
-                {
-                 "height":0,
                  "id":105,
                  "name":"doorLobby",
                  "point":true,
@@ -9851,6 +9803,64 @@
                  "width":0,
                  "x":1198,
                  "y":2651
+                }, 
+                {
+                 "height":0,
+                 "id":104,
+                 "name":"doorOffice",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"doorClosedOffice"
+                        }, 
+                        {
+                         "name":"closeSound",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"MOX T\u00fcr \u00f6ffnen"
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"MOX T\u00fcr \u00f6ffnen."
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"doorOpenedOffice"
+                        }, 
+                        {
+                         "name":"openSound",
+                         "type":"string",
+                         "value":"sigh_0.mp3"
+                        }, 
+                        {
+                         "name":"soundRadius",
+                         "type":"int",
+                         "value":150
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":849,
+                 "y":697.834
                 }],
          "opacity":1,
          "properties":[
