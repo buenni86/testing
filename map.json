@@ -10582,6 +10582,11 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10610,6 +10615,11 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10638,6 +10648,11 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10666,6 +10681,11 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10694,6 +10714,11 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10703,12 +10728,6 @@
                  "y":29.3333333333333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
