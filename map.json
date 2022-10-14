@@ -10367,6 +10367,11 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_b2_door"
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10410,6 +10415,11 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_evs_door"
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10453,6 +10463,11 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_test_door"
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10496,6 +10511,11 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_door_bottom_right"
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10554,6 +10574,11 @@
                          "name":"soundRadius",
                          "type":"int",
                          "value":150
+                        }, 
+                        {
+                         "name":"tag",
+                         "type":"string",
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10586,7 +10611,7 @@
                         {
                          "name":"tag",
                          "type":"string",
-                         "value":"admin"
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10619,7 +10644,7 @@
                         {
                          "name":"tag",
                          "type":"string",
-                         "value":"admin"
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10652,7 +10677,7 @@
                         {
                          "name":"tag",
                          "type":"string",
-                         "value":"admin"
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10685,7 +10710,7 @@
                         {
                          "name":"tag",
                          "type":"string",
-                         "value":"admin"
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10718,7 +10743,7 @@
                         {
                          "name":"tag",
                          "type":"string",
-                         "value":"admin"
+                         "value":"EVS"
                         }],
                  "rotation":0,
                  "type":"variable",
