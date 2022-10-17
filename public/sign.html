@@ -55,48 +55,22 @@
 <!-- At the end of the body to simulate $.ready() -->
 <script type="application/javascript">
   (function () {
-    function setContentFromQueryParam(id){
-      if (queryParams[id]) {
-        document.getElementById(id).textContent = queryParams[id]
-      } else {
-        document.getElementById(id).textContent = ''
-      }
-    }
 
     const queryParams = new Proxy(new URLSearchParams(window.location.search), {
       get: (searchParams, prop) => searchParams.get(prop),
     })
 	
 	WA.onInit().then(() => {
-		document.getElementById("line1").innerText = WA.state.table1;
-		document.getElementById("line1").innerText = WA.state.table2;
-		document.getElementById("line1").innerText = WA.state.table3;
-		document.getElementById("line1").innerText = WA.state.table4;
-		document.getElementById("line1").innerText = WA.state.table5;
-	}); 
-
-    //setContentFromQueryParam("line1")
-	WA.state.onVariableChange('table1').subscribe((value) => {
+		document.getElementById("line1").innerText = WA.state[queryParams.name];
+		document.getElementById("line2").innerText = WA.state[queryParams.name + "_2"];
+	});
+	
+	WA.state.onVariableChange(queryParams.name).subscribe((value) => {
 		document.getElementById("line1").innerText = value;
-	}); 
-    setContentFromQueryParam("line2")
-	WA.state.onVariableChange('table2').subscribe((value) => {
-		document.getElementById("line1").innerText = value;
-	}); 
-    setContentFromQueryParam("line2")
-	WA.state.onVariableChange('table3').subscribe((value) => {
-		document.getElementById("line1").innerText = value;
-	}); 
-    setContentFromQueryParam("line2")
-	WA.state.onVariableChange('table4').subscribe((value) => {
-		document.getElementById("line1").innerText = value;
-	}); 
-    setContentFromQueryParam("line2")
-	WA.state.onVariableChange('table5').subscribe((value) => {
-		document.getElementById("line1").innerText = value;
-	}); 
-    setContentFromQueryParam("line2")
-
+	});
+	WA.state.onVariableChange(queryParams.name + "_2").subscribe((value) => {
+		document.getElementById("line2").innerText = value;
+	});
   })()
 </script>
 </body>
