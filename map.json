@@ -10387,11 +10387,6 @@
                          "name":"readableBy",
                          "type":"string",
                          "value":"admin"
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10438,11 +10433,6 @@
                         }, 
                         {
                          "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
-                         "name":"writableBy",
                          "type":"string",
                          "value":"admin"
                         }],
@@ -10493,11 +10483,6 @@
                          "name":"readableBy",
                          "type":"string",
                          "value":"admin"
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10544,11 +10529,6 @@
                         }, 
                         {
                          "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
-                         "name":"writableBy",
                          "type":"string",
                          "value":"admin"
                         }],
@@ -10614,11 +10594,6 @@
                          "name":"soundRadius",
                          "type":"int",
                          "value":150
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
