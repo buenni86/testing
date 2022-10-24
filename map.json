@@ -10278,6 +10278,11 @@
                          "name":"label",
                          "type":"string",
                          "value":"Tisch-Tennis:"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10301,6 +10306,11 @@
                          "name":"label",
                          "type":"string",
                          "value":"Billard-Tisch:"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10324,6 +10334,11 @@
                          "name":"label",
                          "type":"string",
                          "value":"Quiz:"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10369,9 +10384,14 @@
                          "value":"opened_b2_door"
                         }, 
                         {
-                         "name":"tag",
+                         "name":"readableBy",
                          "type":"string",
-                         "value":"EVS"
+                         "value":"admin"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10417,9 +10437,14 @@
                          "value":"opened_evs_door"
                         }, 
                         {
-                         "name":"tag",
+                         "name":"readableBy",
                          "type":"string",
-                         "value":"EVS"
+                         "value":"admin"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10465,9 +10490,14 @@
                          "value":"opened_test_door"
                         }, 
                         {
-                         "name":"tag",
+                         "name":"readableBy",
                          "type":"string",
-                         "value":"EVS"
+                         "value":"admin"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10513,9 +10543,14 @@
                          "value":"opened_door_bottom_right"
                         }, 
                         {
-                         "name":"tag",
+                         "name":"readableBy",
                          "type":"string",
-                         "value":"EVS"
+                         "value":"admin"
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10571,14 +10606,19 @@
                          "value":"sigh_0.mp3"
                         }, 
                         {
+                         "name":"readableBy",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
                          "name":"soundRadius",
                          "type":"int",
                          "value":150
                         }, 
                         {
-                         "name":"tag",
+                         "name":"writableBy",
                          "type":"string",
-                         "value":"EVS"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -10609,7 +10649,12 @@
                          "value":true
                         }, 
                         {
-                         "name":"tag",
+                         "name":"readableBy",
+                         "type":"string",
+                         "value":"EVS"
+                        }, 
+                        {
+                         "name":"writableBy",
                          "type":"string",
                          "value":"EVS"
                         }],
