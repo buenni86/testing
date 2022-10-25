@@ -11390,12 +11390,6 @@
                  "y":2466.27865
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
