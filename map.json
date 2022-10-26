@@ -10680,11 +10680,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_b2_door"
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -10728,11 +10723,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_evs_door"
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -10776,11 +10766,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_test_door"
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -10877,11 +10862,6 @@
                          "name":"openSound",
                          "type":"string",
                          "value":"sigh_0.mp3"
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"soundRadius",
