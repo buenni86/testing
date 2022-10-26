@@ -902,11 +902,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door_b2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"b2"
                 }],
          "type":"tilelayer",
          "visible":true,
