@@ -10824,11 +10824,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_door_bottom_left"
-                        }, 
-                        {
-                         "name":"readableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
