@@ -9722,8 +9722,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28752, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28121, 28122, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28249, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29520, 29521, 0, 28121, 28122, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28249, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29648, 29649, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -9821,8 +9821,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29520, 29521, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29648, 29649, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147511778, 2147511777, 2147511776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28128, 28129, 28130, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147511906, 2147511905, 2147511904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28256, 28257, 28258, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -9868,61 +9868,62 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"",
                  "height":100,
                  "id":18,
                  "name":"popUpFeedback",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":201.333333333333,
                  "x":1170,
                  "y":1230
                 }, 
                 {
+                 "class":"",
                  "height":96,
                  "id":20,
                  "name":"popUpTutorial",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":160.5,
                  "x":1376,
                  "y":1040
                 }, 
                 {
+                 "class":"",
                  "height":90,
                  "id":21,
                  "name":"popUpWhiteboard",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":144.666666666667,
                  "x":920.666666666667,
                  "y":1528
                 }, 
                 {
+                 "class":"",
                  "height":100,
                  "id":27,
                  "name":"popUpInfo",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":333.33,
                  "x":1168,
                  "y":1600
                 }, 
                 {
+                 "class":"",
                  "height":121.333333333333,
                  "id":29,
                  "name":"popUpInfoOrder",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":344.666666666667,
                  "x":1164,
                  "y":2177.66666666667
                 }, 
                 {
+                 "class":"",
                  "height":25.96,
                  "id":30,
                  "name":"B\u00fcro-Info",
@@ -9940,13 +9941,13 @@
                      "text":"Systel\nOpenSpace\nB\u00fcro",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":98.26,
                  "x":1617.87,
                  "y":1011.02
                 }, 
                 {
+                 "class":"",
                  "height":18.2969,
                  "id":31,
                  "name":"Silent1",
@@ -9964,13 +9965,13 @@
                      "text":"Silent Work Place",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":213.594,
                  "x":1894.2015,
                  "y":1253.35
                 }, 
                 {
+                 "class":"",
                  "height":19.296875,
                  "id":33,
                  "name":"Tutorial",
@@ -9988,57 +9989,57 @@
                      "text":"Tutorial",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":72.03125,
                  "x":1536.984375,
                  "y":1152.3515625
                 }, 
                 {
+                 "class":"",
                  "height":161.333333333333,
                  "id":38,
                  "name":"popUpTableTennis",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":384,
                  "x":1696,
                  "y":1442.66666666667
                 }, 
                 {
+                 "class":"",
                  "height":143,
                  "id":39,
                  "name":"popUpInformation",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":357.33,
                  "x":1182.335,
                  "y":1268
                 }, 
                 {
+                 "class":"",
                  "height":149.333,
                  "id":106,
                  "name":"resetPopup",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":1056.33,
                  "y":64.536
                 }, 
                 {
+                 "class":"",
                  "height":69.4666,
                  "id":107,
                  "name":"bellMessage",
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":89.1241,
                  "x":746.866,
                  "y":634.244
                 }, 
                 {
+                 "class":"",
                  "height":8.63020833333348,
                  "id":109,
                  "name":"EIS",
@@ -10056,13 +10057,13 @@
                      "text":"EIS",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":32.6979166666666,
                  "x":968.65,
                  "y":2519.01822916667
                 }, 
                 {
+                 "class":"",
                  "height":10.630208333333,
                  "id":110,
                  "name":"EuLe",
@@ -10080,7 +10081,6 @@
                      "text":"EuLe",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":42.6979166666666,
                  "x":666.65,
@@ -10109,6 +10109,7 @@
          "name":"mox_configuration",
          "objects":[
                 {
+                 "class":"area",
                  "height":288,
                  "id":85,
                  "name":"Siegesstrasse",
@@ -10129,13 +10130,13 @@
                          "value":"Siegesstrasse"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":671,
                  "x":673.333,
                  "y":30.536
                 }, 
                 {
+                 "class":"area",
                  "height":122.856,
                  "id":86,
                  "name":"Joto",
@@ -10156,13 +10157,13 @@
                          "value":"Joto"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":213,
                  "x":338,
                  "y":505.197
                 }, 
                 {
+                 "class":"area",
                  "height":65.3333,
                  "id":87,
                  "name":"rooster",
@@ -10183,13 +10184,13 @@
                          "value":"rooster.mp3"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":81.3333,
                  "x":1016,
                  "y":675.869
                 }, 
                 {
+                 "class":"area",
                  "height":124.767,
                  "id":88,
                  "name":"Hoenn",
@@ -10210,13 +10211,13 @@
                          "value":"Hoenn"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":213,
                  "x":48.8333,
                  "y":290.486
                 }, 
                 {
+                 "class":"area",
                  "height":132.423,
                  "id":89,
                  "name":"Kanto",
@@ -10237,13 +10238,13 @@
                          "value":"Kanto"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":213,
                  "x":53.8333,
                  "y":441.513
                 }, 
                 {
+                 "class":"area",
                  "height":185.333,
                  "id":90,
                  "name":"silent",
@@ -10254,13 +10255,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":305.667,
                  "x":612.333,
                  "y":328.536
                 }, 
                 {
+                 "class":"area",
                  "height":185.333,
                  "id":91,
                  "name":"silent_office",
@@ -10271,13 +10272,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":319.667,
                  "x":32.3333,
                  "y":39.536
                 }, 
                 {
+                 "class":"area",
                  "height":165.333,
                  "id":92,
                  "name":"silent_lobby",
@@ -10288,13 +10289,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":285.333,
                  "x":32.3333,
                  "y":668.536
                 }, 
                 {
+                 "class":"area",
                  "height":96,
                  "id":93,
                  "name":"silent_meetingRoom",
@@ -10305,13 +10306,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":125.5,
                  "x":544.333,
                  "y":31.536
                 }, 
                 {
+                 "class":"area",
                  "height":81.3636,
                  "id":94,
                  "name":"DJ",
@@ -10337,13 +10338,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":95.6364,
                  "x":415.53,
                  "y":45.1572
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":96,
                  "name":"votePos",
@@ -10355,13 +10356,13 @@
                          "value":0
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1119.33,
                  "y":258.536
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":97,
                  "name":"voteNeut",
@@ -10373,13 +10374,13 @@
                          "value":0
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1314.33,
                  "y":255.536
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":98,
                  "name":"voteNeg",
@@ -10391,13 +10392,13 @@
                          "value":0
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1216.33,
                  "y":255.536
                 }, 
                 {
+                 "class":"area",
                  "height":102.856,
                  "id":100,
                  "name":"Lobby",
@@ -10418,13 +10419,13 @@
                          "value":"Lobby"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":213,
                  "x":117.833,
                  "y":953.108
                 }, 
                 {
+                 "class":"website",
                  "height":128,
                  "id":101,
                  "name":"voteRes",
@@ -10440,13 +10441,13 @@
                          "value":".\/result.html"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":233,
                  "x":1110.83,
                  "y":13.036
                 }, 
                 {
+                 "class":"area",
                  "height":85,
                  "id":102,
                  "name":"lobbyGame",
@@ -10472,13 +10473,13 @@
                          "value":"https:\/\/games.cdn.famobi.com\/html5games\/0\/8-ball-billiards-classic\/v250\/?fg_domain=play.famobi.com&fg_aid=A-SU86Z&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=93d42260-3c31-4339-899b-bfd3d1fe0c79&fg_beat=535&original_ref="
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":118,
                  "x":642.33,
                  "y":970.536
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":103,
                  "name":"bell",
@@ -10500,13 +10501,13 @@
                          "value":800
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":528.667,
                  "y":260.667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":105,
                  "name":"doorLobby",
@@ -10543,7 +10544,6 @@
                          "value":150
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1267,
@@ -10561,6 +10561,7 @@
          "name":"configuration",
          "objects":[
                 {
+                 "class":"variable",
                  "height":0,
                  "id":34,
                  "name":"table-tennis",
@@ -10582,13 +10583,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1880,
                  "y":1661
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":35,
                  "name":"pooltable",
@@ -10610,13 +10611,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1684,
                  "y":1690
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":37,
                  "name":"quiz",
@@ -10638,13 +10639,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1866,
                  "y":1368
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":43,
                  "name":"door_b2",
@@ -10686,13 +10687,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1209,
                  "y":2085
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":44,
                  "name":"door_evs",
@@ -10734,13 +10735,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1208,
                  "y":1782.66666666667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":45,
                  "name":"door_test",
@@ -10782,13 +10783,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1200,
                  "y":2366.66666666667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":108,
                  "name":"door_bottom_left",
@@ -10830,13 +10831,13 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1198,
                  "y":2651
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":104,
                  "name":"doorOffice",
@@ -10893,13 +10894,13 @@
                          "value":150
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":849,
                  "y":697.834
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":111,
                  "name":"whiteboard1",
@@ -10931,13 +10932,13 @@
                          "value":"EVS"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1130.66666666667,
                  "y":1624
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":112,
                  "name":"whiteboard2",
@@ -10959,13 +10960,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1128,
                  "y":1916
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":113,
                  "name":"whiteboard3",
@@ -10987,13 +10988,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1136,
                  "y":2201.33333333333
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":114,
                  "name":"whiteboard4",
@@ -11015,13 +11016,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1133.33333333333,
                  "y":2486.66666666667
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":115,
                  "name":"whiteboard5",
@@ -11043,13 +11044,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":905.333333333333,
                  "y":29.3333333333333
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":116,
                  "name":"table1",
@@ -11066,13 +11067,13 @@
                          "value":"Tisch 1 Zeile 1:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1375.61335,
                  "y":2457.16865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":117,
                  "name":"table1_2",
@@ -11089,13 +11090,13 @@
                          "value":"Tisch 1 Zeile 2:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1395.61335,
                  "y":2457.16865
                 }, 
                 {
+                 "class":"website",
                  "height":31.2727,
                  "id":118,
                  "name":"table1",
@@ -11111,13 +11112,13 @@
                          "value":"sign.html?name=table1"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":61.3333,
                  "x":1345.24335,
                  "y":2466.44865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":119,
                  "name":"table2",
@@ -11134,13 +11135,13 @@
                          "value":"Tisch 2 Zeile 1:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1567.34335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":120,
                  "name":"table2_2",
@@ -11157,13 +11158,13 @@
                          "value":"Tisch 2 Zeile 2:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1585.34335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"website",
                  "height":31.2727,
                  "id":121,
                  "name":"table2",
@@ -11179,13 +11180,13 @@
                          "value":"sign.html?name=table2"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":61.3333,
                  "x":1537.45335,
                  "y":2466.42865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":122,
                  "name":"table3",
@@ -11202,13 +11203,13 @@
                          "value":"Tisch 3 Zeile 1:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1759.77335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":123,
                  "name":"table3_2",
@@ -11225,13 +11226,13 @@
                          "value":"Tisch 3 Zeile 2:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1777.77335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"website",
                  "height":31.2727,
                  "id":124,
                  "name":"table3",
@@ -11247,13 +11248,13 @@
                          "value":"sign.html?name=table3"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":61.3333,
                  "x":1729.38335,
                  "y":2466.36865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":125,
                  "name":"table4",
@@ -11270,13 +11271,13 @@
                          "value":"Tisch 4 Zeile 1:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1951.56335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":126,
                  "name":"table4_2",
@@ -11293,13 +11294,13 @@
                          "value":"Tisch 4 Zeile 2:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1971.56335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"website",
                  "height":31.2727,
                  "id":127,
                  "name":"table4",
@@ -11315,13 +11316,13 @@
                          "value":"sign.html?name=table4"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":61.3333,
                  "x":1921.42335,
                  "y":2466.36865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":128,
                  "name":"table5",
@@ -11338,13 +11339,13 @@
                          "value":"Tisch 5 Zeile 1:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":2143.56335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"variable",
                  "height":0,
                  "id":129,
                  "name":"table5_2",
@@ -11361,13 +11362,13 @@
                          "value":"Tisch 5 Zeile 2:"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":2143.56335,
                  "y":2456.58865
                 }, 
                 {
+                 "class":"website",
                  "height":31.2727,
                  "id":130,
                  "name":"table5",
@@ -11383,7 +11384,6 @@
                          "value":"sign.html?name=table5"
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":61.3333,
                  "x":2113.42335,
@@ -11920,7 +11920,7 @@
          "value":"skript.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.6",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -14796,6 +14796,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":71
 }
