@@ -901,7 +901,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_b2"
+                 "value":"door_b21"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1016,7 +1016,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door_b2"
+                 "value":"door_b21"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -10643,7 +10643,7 @@
                  "class":"variable",
                  "height":0,
                  "id":43,
-                 "name":"door_b2",
+                 "name":"door_b21",
                  "point":true,
                  "properties":[
                         {
