@@ -222,6 +222,14 @@ const buttons = [
       WA.room.onLeaveLayer("voteRes").subscribe(() => {
         voteResetPopup.close()
       })
+	  
+	  // WA.state.onVariableChange("roomX").subscribe((value) => {
+		  	// WA.room.setTiles({ x: WA.state.roomX, y: WA.state.roomY, tile: "movingObject", layer: "roomAPI"});
+		// });
+	  
+	  WA.state.onVariableChange("roomY").subscribe((value) => {
+		  	WA.room.setTiles([{ x: WA.state.roomX, y: WA.state.roomY, tile: "movingObject", layer: "roomAPI"}]);
+		});
   
       // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
       bootstrapExtra()
