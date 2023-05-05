@@ -228,14 +228,14 @@ const buttons = [
 		// });
 	  
       WA.state.onVariableChange("npc1").subscribe(async (value) => {
-        console.log(WA.state.npc1)
+        // console.log(WA.state.npc1)
         WA.room.setTiles([
           { x: WA.state.npc1.x2, y: WA.state.npc1.y2, tile: null, layer: "roomAPI" },
           { x: WA.state.npc1.x1, y: WA.state.npc1.y1, tile: "movingObject", layer: "roomAPI" }]);
       })
 	  
       WA.state.onVariableChange("npc2").subscribe(async (value) => {
-        console.log(WA.state.npc2)
+        // console.log(WA.state.npc2)
         WA.room.setTiles([
           { x: WA.state.npc2.x2, y: WA.state.npc2.y2, tile: null, layer: "roomAPI" },
           { x: WA.state.npc2.x1, y: WA.state.npc2.y1, tile: "movingObject", layer: "roomAPI" },]);
