@@ -12,7 +12,6 @@ var urlTutorial = "https://db-planet.deutschebahn.com/pages/telefonie/apps/conte
 var urlFeedback = "https://forms.office.com/Pages/ResponsePage.aspx?id=nC2noeZJbU-a9lqvoRg7_f26WHDvlOFNi_8Y43fECOdUMDVDTUpUUDRONkxHMzdLQ09WRlQxUUZSMS4u";
 var urlInfo = "https://db.de/workadventure";
 var urlInfoOrder = "https://dbserviceportal.service-now.com/serviceportal?id=sc_cat_item&category_sys_id=undefined&sys_id=0fa1b33e1b4bf010159842229b4bcb0e";
-const map = await WA.room.getTiledMap();
 
 function closePopUp(){
     if (currentPopup !== undefined) {
