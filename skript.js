@@ -12,6 +12,7 @@ var urlTutorial = "https://db-planet.deutschebahn.com/pages/telefonie/apps/conte
 var urlFeedback = "https://forms.office.com/Pages/ResponsePage.aspx?id=nC2noeZJbU-a9lqvoRg7_f26WHDvlOFNi_8Y43fECOdUMDVDTUpUUDRONkxHMzdLQ09WRlQxUUZSMS4u";
 var urlInfo = "https://db.de/workadventure";
 var urlInfoOrder = "https://dbserviceportal.service-now.com/serviceportal?id=sc_cat_item&category_sys_id=undefined&sys_id=0fa1b33e1b4bf010159842229b4bcb0e";
+const map = await WA.room.getTiledMap();
 
 function closePopUp(){
     if (currentPopup !== undefined) {
@@ -170,7 +171,7 @@ const buttons = [
   
   // Waiting for the API to be ready
   WA.onInit()
-    .then(() => {
+    .then(async () => {
       console.log("Scripting API ready")
       console.log("Player tags: ", WA.player.tags)
   
@@ -224,12 +225,23 @@ const buttons = [
       })
 	  
 	  // WA.state.onVariableChange("roomX").subscribe((value) => {
-		  	// WA.room.setTiles({ x: WA.state.roomX, y: WA.state.roomY, tile: "movingObject", layer: "roomAPI"});
+		  	// WA.room.setTiles({ x: WA.state.roomX, y: WA.state.npc1, tile: "movingObject", layer: "roomAPI"});
 		// });
 	  
-	  WA.state.onVariableChange("roomY").subscribe((value) => {
-		  	WA.room.setTiles([{ x: WA.state.roomX, y: WA.state.roomY, tile: "movingObject", layer: "roomAPI"}]);
-		});
+      WA.state.onVariableChange("npc1").subscribe(async (value) => {
+        console.log(WA.state.npc1)
+        WA.room.setTiles([
+          { x: WA.state.npc1.x2, y: WA.state.npc1.y2, tile: null, layer: "roomAPI" },
+          { x: WA.state.npc1.x1, y: WA.state.npc1.y1, tile: "movingObject", layer: "roomAPI" }]);
+      })
+	  
+      WA.state.onVariableChange("npc2").subscribe(async (value) => {
+        console.log(WA.state.npc2)
+        WA.room.setTiles([
+          { x: WA.state.npc2.x2, y: WA.state.npc2.y2, tile: null, layer: "roomAPI" },
+          { x: WA.state.npc2.x1, y: WA.state.npc2.y1, tile: "movingObject", layer: "roomAPI" },]);
+      })
+		  	
   
       // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
       bootstrapExtra()
